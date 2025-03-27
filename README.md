@@ -1,6 +1,6 @@
-# pandas_teste
+# modelagem_padrão_github.py 
 
-# Nome do Projeto
+# githubeando_por_ai
 
 [![Badges relevantes](https://img.shields.io/badge/linguagem-Python-blue)](https://shields.io/)
 
