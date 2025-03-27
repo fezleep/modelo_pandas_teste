@@ -12,6 +12,6 @@ Breve descrição do projeto (1-2 parágrafos)
 
 ## 📦 Instalação
 ```bash
-git clone https://github.com/seu-usuario/seu-projeto.git
+git clone:. https://github.com/seu-usuario/seu-projeto.git
 cd seu-projeto
 pip install -r requirements.txt
